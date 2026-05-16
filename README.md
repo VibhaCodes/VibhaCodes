@@ -25,10 +25,6 @@ Let’s grow together — you bring the snacks, I’ll bring the code 🍪💻
 
 🌟 LinkedIn: [linkedin.com/in/pateshwari-vibha](https://www.linkedin.com/in/pateshwari-vibha)
 
-💻 GitHub: [github.com/VibhaCodes](https://github.com/VibhaCodes)
-
-📧 Email: pateshwari.vibha@gmail.com
-
 ---
 
 ## 💻 Tech Stack
